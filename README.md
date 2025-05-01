@@ -24,7 +24,7 @@ I'm a passionate Computer Engineer (B.E. - 2024) actively working at the interse
 ---
 
 ## 💼 Projects I’m proud of
-### 🔹 [Sentiment Analysis API (Multilingual)](https://github.com/sahilsawant-da/sentiment-analysis-api)
+### 🔹 Sentiment Analysis API (Multilingual)(https://github.com/sahilsawant-da/sentiment-analysis-api)
 A FastAPI-based NLP web service using `nlptown/bert-base-multilingual-uncased-sentiment` for real-time sentiment analysis in **English, Hindi, and Marathi**.
 - Filters comments by sentiment (positive/negative)
 - Generates **live pie chart visualizations**
@@ -60,7 +60,7 @@ A project (in progress) that:
 ---
 
 ## 📫 How to reach me
-- 📧 Email: sahilsawa123a@gmail.com
+- 📧 Email: sahilsawa123@gmail.com
 - 🧠 Portfolio (Coming soon!)
 
 ---
