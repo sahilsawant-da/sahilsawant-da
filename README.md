@@ -16,7 +16,7 @@ I'm a passionate Computer Engineer (B.E. - 2024) actively working at the interse
 
 ## 🌱 I’m currently learning
 - **XGBoost, LSTM** for time-series forecasting and real-time prediction
-- **Matrix Profile** techniques for time-series similarity and anomaly detection
+- **Matrix Profile**, various algorithm and forecasting techniques for time-series similarity and anomaly detection as well as predictions
 - Advanced **FastAPI** patterns with PostgreSQL and Docker
 - High-performance **data wrangling** with Pandas and Polars
 - Scaling APIs using **async features and microservice architecture**
