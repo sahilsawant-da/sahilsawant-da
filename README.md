@@ -1,5 +1,4 @@
 <!-- ========================= HEADER SECTION ========================= -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_banner.gif"
        alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI Trainer"
