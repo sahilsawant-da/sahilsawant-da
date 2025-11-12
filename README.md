@@ -1,14 +1,14 @@
-<!-- ========================= HEADER SECTION ========================= -->
+<!-- ========================= CYBER HEADER ========================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_cyber_banner.gif" 
-       alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI" 
+  <img src="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_cyber_banner.gif"
+       alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI"
        width="100%">
 </p>
 
 <h1 align="center">🧠 Sahil Abhijeet Sawant</h1>
 <p align="center">
-  <b>AI/ML Engineer | Data Systems | GenAI Specialist</b>  
+  <b>AI/ML Engineer | Data Systems Architect | Certified GenAI Trainer</b>  
   <br>
   <i>“Building the Future of Intelligent Systems.”</i>
 </p>
@@ -22,30 +22,31 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-🎓 **Computer Engineer (B.E. - 2024)** specializing in **AI systems, intelligent data pipelines, and backend infrastructure.**  
-💼 **AI/ML & Backend Engineering Intern @ Commtel Networks**, building real-time anomaly detection and predictive maintenance systems.  
-🧩 Passionate about **local AI ecosystems** where *Machine Learning*, *Backend Engineering*, and *Generative AI* converge.
+🎓 **Computer Engineer (B.E. - 2024)** specializing in **AI systems, intelligent data pipelines, and backend architecture.**  
+💼 Currently **AI/ML & Backend Intern @ Commtel Networks**, developing *real-time anomaly detection* and *predictive maintenance systems*.  
+🧩 Passionate about building **offline, privacy-first AI ecosystems** powered by **Ollama, LangChain, and PandasAI**.  
+🏅 **Certified Generative AI Trainer** — officially conducted **GenAI Masterclasses** for engineering students, mentoring them in LLMs, Prompt Engineering & AI deployment.
 
 ---
 
-## ⚙️ Tech Stack — *2025 Upgrade Edition 🚀*
+## ⚙️ Tech Stack — *2025 Hyper Edition 🚀*
 
-| **Category** | **Technologies** |
-|---------------|-----------------|
+| **Category** | **Technologies & Tools** |
+|---------------|--------------------------|
 | 💻 **Languages** | Python, SQL, Bash |
 | 🧩 **Frameworks** | FastAPI, Flask, Streamlit, LangChain |
-| 🧠 **Machine Learning** | XGBoost, LightGBM, Scikit-Learn, K-Means, Regression, Clustering |
-| 🧮 **Deep Learning** | YOLOv8, CNNs, LSTMs, Transformers |
-| ⏳ **Forecasting & Time-Series** | Matrix Profile, ARIMA, EWMA, MAD, Prophet |
-| 📊 **Data Engineering** | Pandas, Polars, NumPy, Dask, Power BI |
-| 🔐 **Security / DevOps** | Fernet Encryption, Cryptography Hazmat, Docker, Postman |
+| 🧠 **Machine Learning** | XGBoost, LightGBM, Scikit-Learn, Clustering, Regression |
+| 🧮 **Deep Learning** | YOLOv8, LSTM, CNN, Transformers |
+| 📊 **Data Engineering** | Pandas, Polars, Dask, NumPy, Power BI |
+| 🔐 **Security / DevOps** | Docker, Cryptography Hazmat, Fernet Encryption, Postman |
 | 🤖 **LLM & GenAI Stack** | Ollama, LangChain, PandasAI, LlamaIndex, Hugging Face, Unstructured.io |
-| 🖼️ **Visualization** | Matplotlib, Plotly, Seaborn, Power BI |
+| 📈 **Time-Series / Forecasting** | Matrix Profile, EWMA, MAD, ARIMA, Prophet |
+| 🖼️ **Visualization** | Seaborn, Plotly, Matplotlib, Power BI |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,streamlit,pytorch,docker,postgresql,tensorflow,git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,streamlit,pytorch,tensorflow,docker,postgresql,git,linux,postman" />
 </p>
 
 ---
@@ -53,29 +54,15 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [Secure Local Analyst (PandasAI + Ollama)](https://github.com/sahilsawant-da/Secure-Local-Analyst-PandasAI-Ollama)
-> ⚡ **Offline, privacy-first AI data analyst** — powered by **Ollama**, **PandasAI**, and **LangChain**.  
-> Query and visualize your CSV, Excel, PDF, or DOCX data using natural language — *without the cloud.*
+> ⚡ **Offline, privacy-first AI data analyst** — powered by **Ollama**, **LangChain**, and **PandasAI**.  
+> Ask data questions in plain English, and get *local LLM-powered visual insights.*
 
-#### 💡 Key Highlights
-- 🔒 100% **Local Execution** — no internet, no data leaks  
-- 🧠 **Natural Language Analytics** powered by `llama3.2:3b`  
-- 📂 Supports **CSV, XLSX, PDF, DOCX, TXT, Parquet**  
-- 🪶 Auto-sampling for large datasets  
-- 📊 **Smart Visualizations** with PandasAI + Streamlit  
-- ⚙️ **Error Recovery** and context-aware querying  
+- 🔒 100% **Local Execution** — secure, air-gapped analytics  
+- 🧠 Uses **llama3.2:3b** + **LangChain context engines**  
+- 📊 **Smart Visualizations** via Streamlit  
+- ⚙️ **Resilient error recovery** & natural-language query chain  
 
-#### ⚙️ Supported Local LLMs via Ollama
-
-| Model | Purpose |
-|--------|----------|
-| 🦙 `llama3.2:3b` | Local reasoning and analysis |
-| 🌪 `mistral:7b` | Balanced general-purpose model |
-| ⚡ `phi3:mini` | Edge inference & low-resource |
-| 💻 `codellama:13b` | Code understanding & generation |
-| 💬 `gemma:7b` | Conversational AI |
-| 👁️ `llava:1.5` | Vision-language analysis |
-
-🧱 *Stack:* Python, Streamlit, Ollama, LangChain, PandasAI, Unstructured
+🧱 *Tech:* Python, Streamlit, LangChain, PandasAI, Ollama, Unstructured.io  
 
 ---
 
@@ -83,86 +70,95 @@
 > Real-time predictive fault detection for telecom infrastructure.  
 🧱 *Tech:* Python, FastAPI, PostgreSQL, XGBoost, Seaborn  
 
----
-
 ### 🔹 **Laptop Health Monitoring & Forecasting**
-> Predictive hardware analytics using time-series forecasting (CPU, RAM, Disk).  
+> Predictive analytics for hardware metrics (CPU, RAM, Disk).  
 🧱 *Tech:* Python, XGBoost, LSTM, Matplotlib  
 
----
-
 ### 🔹 **Alarm Classification API**
-> RESTful ML API for intelligent alarm categorization.  
+> RESTful alarm categorization for intelligent incident response.  
 🧱 *Tech:* FastAPI, Scikit-Learn, Pandas  
 
----
-
 ### 🔹 **YOLOv8 Instance Segmentation**
-> Edge-optimized real-time instance segmentation.  
+> Edge-ready real-time segmentation & detection.  
 🧱 *Tech:* YOLOv8, PyTorch, OpenCV  
 
----
-
 ### 🔹 **AR/VR E-Learning Platform**
-> 3D immersive learning through AR/VR simulations.  
+> 3D immersive learning powered by AR/VR.  
 🧱 *Tech:* Unity, Blender, Python  
 
 ---
 
-## 🧩 Experience
+## 🧩 Professional Experience
 
 ### 🧠 **AI/ML & Backend Engineering Intern – Commtel Networks**  
 *Dec 2024 – Jul 2025*
 
-- 🚨 Built **real-time anomaly detection systems** (Matrix Profile + EWMA + MAD)  
-  → Reduced event latency **20 min → <1 sec**  
-- 🧠 Designed **predictive maintenance pipelines** using XGBoost & LSTM  
-- 🧰 Created **FastAPI microservices** for scalable, modular deployment  
-- 🔒 Implemented **encryption & secure logging** with Fernet + Hazmat  
-- 📊 Built **live dashboards** using Power BI & Tkinter  
+- 🚨 Developed **real-time anomaly detection** (Matrix Profile + MAD + EWMA)  
+  → Reduced latency **20 min → < 1 sec**  
+- 🧠 Built **predictive maintenance pipelines** using XGBoost & LSTM  
+- 🧰 Designed **FastAPI microservices** for modular backends  
+- 🔒 Integrated **secure data encryption** & logging systems  
+- 📊 Deployed **Power BI dashboards** with live data feeds  
+
+---
+
+## 🎓 Teaching & Outreach
+
+👨‍🏫 **Certified GenAI Trainer (2025)**  
+- Conducted **“Generative AI Masterclass”** workshops for university students  
+- Mentored over **100+ students** on LLM architectures, Prompt Engineering & fine-tuning  
+- Demonstrated **local AI deployments using Ollama + LangChain + PandasAI**
 
 ---
 
 ## 🧬 Research & Exploration
 
-- Agentic LLMs for Data Analysis  
-- Multimodal AI (Text + Image + Tabular)  
-- Secure Offline AI Ecosystems  
-- Hybrid ML/DL Forecasting  
-- Microservice Deployment for ML APIs  
+- Agentic LLMs for autonomous data analysis  
+- Hybrid ML/DL forecasting architectures  
+- Secure offline inference & local AI ecosystems  
+- Contextual multimodal intelligence (Text + Image + Tables)  
+- Scalable ML API microservice orchestration  
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🏅 **Best Rotaract Member (2022–2023)** – Rotaract Club of K.C. College  
-📜 **Certifications:** Power BI, SQL, Python for ML, ML A–Z, GenAI Masterclass  
-🏏 **Cricket Captain** – Best Batsman & All-Rounder  
-🥇 Multi-sport awards in Football, Kabaddi, and Badminton  
+🏅 **Best Rotaract Member (2022–23)** – Rotaract Club of K.C. College  
+📜 **Certifications:**  
+- Microsoft Power BI  
+- SQL for Data Analysis  
+- Python for Data Science  
+- Python for ML & DS Masterclass – Udemy  
+- Machine Learning A–Z (Ongoing)  
+- **LLM & GenAI Engineering Masterclass – Certified Trainer**  
+🏏 **Cricket Captain** — Best Batsman & All-Rounder  
+🥇 Multi-sport achievements: Football, Kabaddi, Badminton  
 
 ---
 
 ## 🌟 Impact Dashboard
 
-| Focus | Impact |
-|--------|--------|
-| 🤖 **AI/ML Systems** | Real-time anomaly detection & predictive models |
-| ⚙️ **Backend APIs** | Low-latency FastAPI architecture |
-| 📈 **Forecasting** | 90%+ accurate predictive maintenance |
-| 🧩 **Visualization** | Real-time dashboards for 300+ telemetry nodes |
-| 🔒 **LLM/GenAI** | Fully offline, privacy-preserving analytics tools |
+| 🧠 Focus | 💥 Impact |
+|----------|-----------|
+| **AI/ML Systems** | Real-time anomaly detection deployed in production |
+| **Backend Engineering** | Low-latency FastAPI microservice architecture |
+| **Forecasting** | 90%+ precision in predictive maintenance models |
+| **Visualization** | Live telemetry dashboards for 300+ devices |
+| **LLM / GenAI** | 100% local, privacy-preserving data analysis |
 
 ---
 
 ## 🤝 Connect With Me
 
-📩 **Email:** [sahilsawa123@gmail.com](mailto:sahilsawa123@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/sahilsawant](https://linkedin.com/in/sahilsawant)  
-💻 **GitHub:** [github.com/sahilsawant-da](https://github.com/sahilsawant-da)  
+<p align="center">
+  <a href="mailto:sahilsawa123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sahilsawant"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sahilsawant-da"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
+</p>
 
 ---
 
 ## 💬 Quote I Live By
 
 > *“Turning complex data into intelligent, scalable systems.”*  
-> *AI is the next electricity — I’m building the circuits that make it flow.* ⚙️💡
+> *AI is the next electricity — and I’m building the circuits that make it flow.* ⚙️💡
