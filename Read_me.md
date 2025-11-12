@@ -1,12 +1,9 @@
 <!-- ========================= HEADER SECTION ========================= -->
 
 <p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_banner.gif" type="image/gif">
-    <img src="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_banner.gif"
-         alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI Trainer"
-         width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_banner.gif"
+       alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI Trainer"
+       width="100%">
 </p>
 
 <h1 align="center">🧠 Sahil Abhijeet Sawant</h1>
