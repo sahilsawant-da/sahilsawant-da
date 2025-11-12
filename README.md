@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahilsawant-da/sahilsawant-da/main/assets/header_cyber_banner.gif"
-       alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI"
+       alt="Sahil Abhijeet Sawant — AI/ML Engineer | Data Systems | GenAI Trainer"
        width="100%">
 </p>
 
@@ -25,9 +25,10 @@
 ## 👋 About Me
 
 🎓 **Computer Engineer (B.E. - 2024)** specializing in **AI systems, intelligent data pipelines, and backend architecture.**  
-💼 Currently **AI/ML & Backend Intern @ Commtel Networks**, developing *real-time anomaly detection* and *predictive maintenance systems*.  
+💼 **AI/ML & Backend Intern @ Commtel Networks**, developing *real-time anomaly detection* and *predictive maintenance systems*.  
 🧩 Passionate about building **offline, privacy-first AI ecosystems** powered by **Ollama, LangChain, and PandasAI**.  
-🏅 **Certified Generative AI Trainer** — officially conducted **GenAI Masterclasses** for engineering students, mentoring them in various LLM's, Prompt Engineering & advanced AI tools.
+🏅 Currently **Certified Generative AI Trainer** — officially conducted **GenAI Masterclasses** for engineering students, mentoring them in various LLM's, Prompt Engineering & advanced AI tools.
+
 
 ---
 
