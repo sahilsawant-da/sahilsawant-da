@@ -24,9 +24,9 @@
 
 ## 🧠 About Me
 
-🎓 **Computer Engineer (B.E. - 2024)** specializing in **AI systems, intelligent pipelines, and backend infrastructure.**  
-💼 **AI/ML & Backend Engineering Intern @ Commtel Networks**, designing real-time anomaly detection systems and predictive maintenance engines.  
-🧩 Passionate about **private, local AI ecosystems** that merge *Machine Learning*, *Backend Engineering*, and *Generative AI* into intelligent automation.
+🎓 **Computer Engineer (B.E. - 2024)** specializing in **AI systems, intelligent data pipelines, and backend infrastructure.**  
+💼 **AI/ML & Backend Engineering Intern @ Commtel Networks**, building real-time anomaly detection and predictive maintenance systems.  
+🧩 Passionate about **local AI ecosystems** where *Machine Learning*, *Backend Engineering*, and *Generative AI* converge.
 
 ---
 
@@ -50,24 +50,62 @@
 
 ---
 
-## 🤖 Ollama + PandasAI Integration
+## 🚀 Featured Projects
 
-> ⚡ *Offline, privacy-first AI assistant for data analysis — no cloud, no leaks.*
+### 🔹 [Secure Local Analyst (PandasAI + Ollama)](https://github.com/sahilsawant-da/Secure-Local-Analyst-PandasAI-Ollama)
+> ⚡ **Offline, privacy-first AI data analyst** — powered by **Ollama**, **PandasAI**, and **LangChain**.  
+> Query and visualize your CSV, Excel, PDF, or DOCX data using natural language — *without the cloud.*
 
-🧠 Built a **Secure Local Analyst** app powered by **Ollama**, **LangChain**, and **PandasAI**, capable of analyzing CSV, Excel, Parquet, PDF, DOCX, and TXT files using natural language — fully offline.
+#### 💡 Key Highlights
+- 🔒 100% **Local Execution** — no internet, no data leaks  
+- 🧠 **Natural Language Analytics** powered by `llama3.2:3b`  
+- 📂 Supports **CSV, XLSX, PDF, DOCX, TXT, Parquet**  
+- 🪶 Auto-sampling for large datasets  
+- 📊 **Smart Visualizations** with PandasAI + Streamlit  
+- ⚙️ **Error Recovery** and context-aware querying  
 
-### ⚙️ Supported Local LLMs
+#### ⚙️ Supported Local LLMs via Ollama
 
 | Model | Purpose |
 |--------|----------|
-| 🦙 `llama3.2:3b` | Local reasoning and analytical insights |
+| 🦙 `llama3.2:3b` | Local reasoning and analysis |
 | 🌪 `mistral:7b` | Balanced general-purpose model |
-| ⚡ `phi3:mini` | Edge inference & lightweight processing |
-| 💻 `codellama:13b` | Code completion and refactoring |
-| 💬 `gemma:7b` | Conversational intelligence |
-| 👁️ `llava:1.5` | Vision-language multimodal inference |
+| ⚡ `phi3:mini` | Edge inference & low-resource |
+| 💻 `codellama:13b` | Code understanding & generation |
+| 💬 `gemma:7b` | Conversational AI |
+| 👁️ `llava:1.5` | Vision-language analysis |
 
-💡 *Integrations:* PandasAI, LangChain, Unstructured.io, Matplotlib
+🧱 *Stack:* Python, Streamlit, Ollama, LangChain, PandasAI, Unstructured
+
+---
+
+### 🔹 **Enterprise Anomaly Detection System**
+> Real-time predictive fault detection for telecom infrastructure.  
+🧱 *Tech:* Python, FastAPI, PostgreSQL, XGBoost, Seaborn  
+
+---
+
+### 🔹 **Laptop Health Monitoring & Forecasting**
+> Predictive hardware analytics using time-series forecasting (CPU, RAM, Disk).  
+🧱 *Tech:* Python, XGBoost, LSTM, Matplotlib  
+
+---
+
+### 🔹 **Alarm Classification API**
+> RESTful ML API for intelligent alarm categorization.  
+🧱 *Tech:* FastAPI, Scikit-Learn, Pandas  
+
+---
+
+### 🔹 **YOLOv8 Instance Segmentation**
+> Edge-optimized real-time instance segmentation.  
+🧱 *Tech:* YOLOv8, PyTorch, OpenCV  
+
+---
+
+### 🔹 **AR/VR E-Learning Platform**
+> 3D immersive learning through AR/VR simulations.  
+🧱 *Tech:* Unity, Blender, Python  
 
 ---
 
@@ -76,67 +114,29 @@
 ### 🧠 **AI/ML & Backend Engineering Intern – Commtel Networks**  
 *Dec 2024 – Jul 2025*
 
-- 🚨 Designed **real-time anomaly detection** (Matrix Profile + EWMA + MAD)  
-  → Reduced event latency **20 min → <1 sec**
-- 🧮 Built **predictive maintenance models** (XGBoost, LSTM, regression)
-- 🧰 Developed **FastAPI microservices** with encrypted REST endpoints
-- 🔒 Secured pipelines using **Fernet & Cryptography Hazmat**
-- 📊 Created **Tkinter + Power BI dashboards** for live monitoring
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Secure Local Analyst (PandasAI + Ollama)](https://github.com/sahilsawant-da/Secure-Local-Analyst-PandasAI-Ollama)
-> 🔒 Local, offline AI analyst for structured/unstructured data.  
-🧱 *Tech:* Python, Streamlit, PandasAI, Ollama, LangChain, Unstructured  
-
----
-
-### 🔹 **Enterprise Anomaly Detection System**
-> Predictive real-time fault detection engine.  
-🧱 *Tech:* Python, FastAPI, XGBoost, PostgreSQL  
-
----
-
-### 🔹 **Laptop Health Monitoring & Forecasting**
-> Time-series CPU, RAM, and disk degradation prediction.  
-🧱 *Tech:* Python, XGBoost, LSTM, Matplotlib  
-
----
-
-### 🔹 **Alarm Classification API**
-> RESTful alarm classification with live ML inference.  
-🧱 *Tech:* FastAPI, Scikit-Learn, Pandas  
-
----
-
-### 🔹 **YOLOv8 Instance Segmentation**
-> Edge-based real-time object segmentation.  
-🧱 *Tech:* YOLOv8, PyTorch, OpenCV  
-
----
-
-### 🔹 **AR/VR E-Learning Platform**
-> 3D interactive learning using AR/VR simulations.  
-🧱 *Tech:* Unity, Blender, Python  
+- 🚨 Built **real-time anomaly detection systems** (Matrix Profile + EWMA + MAD)  
+  → Reduced event latency **20 min → <1 sec**  
+- 🧠 Designed **predictive maintenance pipelines** using XGBoost & LSTM  
+- 🧰 Created **FastAPI microservices** for scalable, modular deployment  
+- 🔒 Implemented **encryption & secure logging** with Fernet + Hazmat  
+- 📊 Built **live dashboards** using Power BI & Tkinter  
 
 ---
 
 ## 🧬 Research & Exploration
 
-- 🧩 Agentic LLMs for automated data analysis  
-- 🧠 Multimodal AI (Text + Image + Tabular fusion)  
-- 🔒 Secure offline inference environments  
-- 📊 Hybrid ML/DL forecasting pipelines  
-- ☁️ Scalable microservice ML deployments  
+- Agentic LLMs for Data Analysis  
+- Multimodal AI (Text + Image + Tabular)  
+- Secure Offline AI Ecosystems  
+- Hybrid ML/DL Forecasting  
+- Microservice Deployment for ML APIs  
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 🏅 **Best Rotaract Member (2022–2023)** – Rotaract Club of K.C. College  
-📜 **Certifications:** Power BI, SQL, Python for ML, ML A–Z, LLM & GenAI Masterclass  
+📜 **Certifications:** Power BI, SQL, Python for ML, ML A–Z, GenAI Masterclass  
 🏏 **Cricket Captain** – Best Batsman & All-Rounder  
 🥇 Multi-sport awards in Football, Kabaddi, and Badminton  
 
@@ -146,11 +146,11 @@
 
 | Focus | Impact |
 |--------|--------|
-| 🤖 **AI/ML Systems** | Production-grade anomaly detection engines |
-| ⚙️ **Backend APIs** | Reduced latency by 40% via FastAPI microservices |
-| 📈 **Predictive Models** | 90%+ accuracy on hardware failure forecasting |
-| 🧩 **Visualization** | Live dashboards for 300+ telemetry nodes |
-| 🔒 **LLM/GenAI** | Offline privacy-preserving data analyst app |
+| 🤖 **AI/ML Systems** | Real-time anomaly detection & predictive models |
+| ⚙️ **Backend APIs** | Low-latency FastAPI architecture |
+| 📈 **Forecasting** | 90%+ accurate predictive maintenance |
+| 🧩 **Visualization** | Real-time dashboards for 300+ telemetry nodes |
+| 🔒 **LLM/GenAI** | Fully offline, privacy-preserving analytics tools |
 
 ---
 
@@ -164,5 +164,5 @@
 
 ## 💬 Quote I Live By
 
-> *"Turning complex data into intelligent, scalable systems."*  
+> *“Turning complex data into intelligent, scalable systems.”*  
 > *AI is the next electricity — I’m building the circuits that make it flow.* ⚙️💡
