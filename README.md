@@ -27,7 +27,7 @@
 🎓 **Computer Engineer (B.E. - 2024)** specializing in **AI systems, intelligent data pipelines, and backend architecture.**  
 💼 Currently **AI/ML & Backend Intern @ Commtel Networks**, developing *real-time anomaly detection* and *predictive maintenance systems*.  
 🧩 Passionate about building **offline, privacy-first AI ecosystems** powered by **Ollama, LangChain, and PandasAI**.  
-🏅 **Certified Generative AI Trainer** — officially conducted **GenAI Masterclasses** for engineering students, mentoring them in LLMs, Prompt Engineering & AI deployment.
+🏅 **Certified Generative AI Trainer** — officially conducted **GenAI Masterclasses** for engineering students, mentoring them in various LLM's, Prompt Engineering & advanced AI tools.
 
 ---
 
